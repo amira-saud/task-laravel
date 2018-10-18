@@ -32,3 +32,5 @@ th {
 <td> {{ $user->job_title }} </td>
 @endforeach
 </table>
+<br>
+<button href="#" type="button" class="btn btn-default">Continue</button>
